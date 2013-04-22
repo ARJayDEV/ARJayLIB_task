@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ARJay">
+	<Package name="Tasks">
+		<Key ID="T1Title">
+			<English>TEST STRING FROM STRING TABLE!</English>
+		</Key>
+	</Package>
+</Project>
